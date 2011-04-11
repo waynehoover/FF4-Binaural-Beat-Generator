@@ -1,0 +1,5 @@
+A Simple Binaural Beat Generator for Firefox 4. This uses the moz Audio API, most of the Javascript code is adapted from the example here:
+https://wiki.mozilla.org/Audio_Data_API#Complete_Example:_Creating_a_Web_Based_Tone_Generator
+
+Sliders complementary of jQuery UI and the Aristro theme:
+https://github.com/taitems/Aristo-jQuery-UI-Theme
